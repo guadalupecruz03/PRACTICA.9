@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: #B0C4DE;
+}
+nav{
+    background-color: rgb(25, 104, 42);
+}
+thead{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+footer{
+    background-color: #f39fc2;
+    color: rgb(0, 0, 0);
+}
+.col{
+    display: inline-block;
+    width: 45%;
+    margin-right: 10px;
+}
